@@ -1,0 +1,8 @@
+{
+  "client_id": "https://pengw6.github.io/tableau-chat-app/tableau-app-client.json",
+  "client_name": "YRP CrimeChat local Tableau MCP prototype",
+  "redirect_uris": ["http://localhost:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
